@@ -15,7 +15,7 @@
                 "source": "https://hdo.app",
                 "version": "2.0.19",
                 "packageName": "com.hdobox",
-                "download": "https://github.com/webcustomise/pr/releases/download/pr/Facebook.apk",
+                "download": "https://github.com/webcustomise/pr/releases/download/pr/hdo_hdo.apk",
                 "safe": true,
                 "sha256": "f94612147174a531f12a3d4d753c835bde0a1a9a2af41394085f121dac761862"
             }
